@@ -1,0 +1,14 @@
+{
+  "name": "portfolio2.0",
+  "version": "1.0.0",
+  "description": "portfolio2.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Harcourt Bull",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
